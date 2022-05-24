@@ -1,0 +1,25 @@
+body{
+    background-image: url(../imagenes/isla-desierta-deshabitada-ilustracion-plana-vector-playa-tropical-arena_94753-3146.webp);
+    background-size: cover
+}
+img{
+    width: 500px;
+}
+section{
+    padding: 10px
+}
+h1{
+    padding: 10px;
+    border: 2px solid green;
+    background-color:green;
+}
+h2{
+    border: 2px solid green;
+    background-color:green;
+}
+nav{
+    color: green;
+}
+a{
+    color: blue;
+}
